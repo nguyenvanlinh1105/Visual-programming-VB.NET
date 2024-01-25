@@ -1,0 +1,17 @@
+D:\OneDrive - University of Technology and Education\2023-2024 kì 223\LAPTRINH_TRUCQUAN\DEMO1\DEMO1\bin\Debug\net6.0-windows\DEMO1.exe
+D:\OneDrive - University of Technology and Education\2023-2024 kì 223\LAPTRINH_TRUCQUAN\DEMO1\DEMO1\bin\Debug\net6.0-windows\DEMO1.deps.json
+D:\OneDrive - University of Technology and Education\2023-2024 kì 223\LAPTRINH_TRUCQUAN\DEMO1\DEMO1\bin\Debug\net6.0-windows\DEMO1.runtimeconfig.json
+D:\OneDrive - University of Technology and Education\2023-2024 kì 223\LAPTRINH_TRUCQUAN\DEMO1\DEMO1\bin\Debug\net6.0-windows\DEMO1.dll
+D:\OneDrive - University of Technology and Education\2023-2024 kì 223\LAPTRINH_TRUCQUAN\DEMO1\DEMO1\bin\Debug\net6.0-windows\DEMO1.pdb
+D:\OneDrive - University of Technology and Education\2023-2024 kì 223\LAPTRINH_TRUCQUAN\DEMO1\DEMO1\obj\Debug\net6.0-windows\DEMO1.vbproj.AssemblyReference.cache
+D:\OneDrive - University of Technology and Education\2023-2024 kì 223\LAPTRINH_TRUCQUAN\DEMO1\DEMO1\obj\Debug\net6.0-windows\DEMO1.Form1.resources
+D:\OneDrive - University of Technology and Education\2023-2024 kì 223\LAPTRINH_TRUCQUAN\DEMO1\DEMO1\obj\Debug\net6.0-windows\DEMO1.vbproj.GenerateResource.cache
+D:\OneDrive - University of Technology and Education\2023-2024 kì 223\LAPTRINH_TRUCQUAN\DEMO1\DEMO1\obj\Debug\net6.0-windows\DEMO1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - University of Technology and Education\2023-2024 kì 223\LAPTRINH_TRUCQUAN\DEMO1\DEMO1\obj\Debug\net6.0-windows\DEMO1.AssemblyInfoInputs.cache
+D:\OneDrive - University of Technology and Education\2023-2024 kì 223\LAPTRINH_TRUCQUAN\DEMO1\DEMO1\obj\Debug\net6.0-windows\DEMO1.AssemblyInfo.vb
+D:\OneDrive - University of Technology and Education\2023-2024 kì 223\LAPTRINH_TRUCQUAN\DEMO1\DEMO1\obj\Debug\net6.0-windows\DEMO1.vbproj.CoreCompileInputs.cache
+D:\OneDrive - University of Technology and Education\2023-2024 kì 223\LAPTRINH_TRUCQUAN\DEMO1\DEMO1\obj\Debug\net6.0-windows\DEMO1.dll
+D:\OneDrive - University of Technology and Education\2023-2024 kì 223\LAPTRINH_TRUCQUAN\DEMO1\DEMO1\obj\Debug\net6.0-windows\refint\DEMO1.dll
+D:\OneDrive - University of Technology and Education\2023-2024 kì 223\LAPTRINH_TRUCQUAN\DEMO1\DEMO1\obj\Debug\net6.0-windows\DEMO1.pdb
+D:\OneDrive - University of Technology and Education\2023-2024 kì 223\LAPTRINH_TRUCQUAN\DEMO1\DEMO1\obj\Debug\net6.0-windows\DEMO1.genruntimeconfig.cache
+D:\OneDrive - University of Technology and Education\2023-2024 kì 223\LAPTRINH_TRUCQUAN\DEMO1\DEMO1\obj\Debug\net6.0-windows\ref\DEMO1.dll
